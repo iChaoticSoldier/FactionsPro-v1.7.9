@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iChaoticSoldier/FactionsPro-v1.7.9
+branches:
+- master
+projects:
+  FactionsPro-v1.7.9:
+    path: ""
+...
