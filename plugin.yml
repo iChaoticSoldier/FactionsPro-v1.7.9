@@ -1,0 +1,14 @@
+name: FactionsPro
+author: Tethered_ & iChaoticSoldier
+description: A Simple And Easily Managing Team Plugin Called Factions From Bukkit Ported To PocketMine-MP 
+version: 1.7.9
+main: Factions\FactionMain
+api: [1.12.0, 3.0.0-ALPHA3]
+commands:
+  f:
+    description: use /f help for all parameters
+    permission: f.command
+permissions:
+  f.command:
+    default: true
+    description: "Allow use of all faction commands"
